@@ -1,0 +1,55 @@
+.sidebar{
+    height: 100%;
+    width: 320px;
+    background-color: #E1F9F4;
+  
+  }
+  .sidebarlist {
+    height: auto;
+    width: 100%;
+    margin-left: 20px;
+  }
+  .sidebarlist .row{
+    width: 70%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .row #icon {
+    padding-left: 10px;
+  }
+  div#title {
+    padding-left: 24px;
+  }
+  .logo1 {
+    height: 75px;
+    width: 44px;
+    padding: 46px 0px 0px 107px;
+    font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #1A1B1C;
+    margin-bottom: 80px;
+  }
+  .username {
+    display: flex;
+    float: right;
+    margin-top: -30px;
+  
+  }
+  
+  .userid {
+      height: 25px;
+      width: 165px;
+      margin: 55px 0px 0px 31px
+  }
+  .sidedata{
+    color: #7a7575;
+  }
+  

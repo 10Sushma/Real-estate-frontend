@@ -1,0 +1,8 @@
+.headers-container {
+  background-color: antiquewhite;
+  height: 8vh;
+  display: grid;
+  margin-left: 50px;
+  grid-template-columns: repeat(9, 1fr);
+  border-radius: 5px;
+}
